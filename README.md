@@ -212,6 +212,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenCV community for excellent computer vision tools
 - SciPy and scikit-learn for statistical analysis capabilities
 - The computer vision research community for optical flow algorithms
-=======
 # Unsupervised-CCTV-Summarizer on CPU
 Automatically condense hours of CCTV footage into a few highlight clips, e.g when movement or anomalies happen
