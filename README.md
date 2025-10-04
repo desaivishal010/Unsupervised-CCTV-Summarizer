@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CCTV Summarization System
 
 An efficient CPU-based system for automatically condensing hours of CCTV footage into highlight clips by detecting movement and anomalies.
@@ -21,8 +21,8 @@ An efficient CPU-based system for automatically condensing hours of CCTV footage
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cctv-summarizer.git
-cd cctv-summarizer
+git clone repo
+cd repo_name
 
 # Install dependencies
 pip install -r requirements.txt
@@ -215,4 +215,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 =======
 # Unsupervised-CCTV-Summarizer on CPU
 Automatically condense hours of CCTV footage into a few highlight clips, e.g when movement or anomalies happen
->>>>>>> f0e6e3fc5ffc5fd79f58a2d869304bf887da7c48
