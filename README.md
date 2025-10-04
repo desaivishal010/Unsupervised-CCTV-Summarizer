@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CCTV Summarization System
 
 An efficient CPU-based system for automatically condensing hours of CCTV footage into highlight clips by detecting movement and anomalies.
@@ -211,3 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenCV community for excellent computer vision tools
 - SciPy and scikit-learn for statistical analysis capabilities
 - The computer vision research community for optical flow algorithms
+=======
+# Unsupervised-CCTV-Summarizer on CPU
+Automatically condense hours of CCTV footage into a few highlight clips, e.g when movement or anomalies happen
+>>>>>>> f0e6e3fc5ffc5fd79f58a2d869304bf887da7c48
