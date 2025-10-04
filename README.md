@@ -21,8 +21,8 @@ An efficient CPU-based system for automatically condensing hours of CCTV footage
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cctv-summarizer.git
-cd cctv-summarizer
+git clone repo
+cd repo_name
 
 # Install dependencies
 pip install -r requirements.txt
